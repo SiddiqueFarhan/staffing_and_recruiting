@@ -91,7 +91,7 @@ def read_pdf(file):
 
 # Function for Applicants page
 def applicants_page():
-    st.title("PDF Upload and Skills Assessment")
+    st.title("PDF Upload and Skills Assessment by Farhan")
 
     st.subheader("Resume")
     # Upload PDF
