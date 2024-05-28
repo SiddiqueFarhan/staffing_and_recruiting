@@ -1,0 +1,8 @@
+streamlit
+pymupdf
+pymongo
+sentence-transformers==2.7.0
+faiss-cpu
+pandas
+nltk
+scikit-learn
